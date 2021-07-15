@@ -12,9 +12,5 @@ search equipment (Table 2).
 <br><b>4.</b> The mean time spent on trips for experienced skippers with average general equipment 
 was 11.3 hours – 32.5 hours more than the mean time on spent trips for experienced 
 skippers with above-average general equipment (Table 4).
-<br><b>5.</b> The mean time spent on trips for experienced skippers with average general equipment 
-was 11.3 hours – 32.5 hours more than the mean time on spent trips for experienced 
-skippers with above-average general equipment (Table 4).
-<br><b>6.</b> The mean time spent on trips for experienced skippers with average general equipment 
-was 11.3 hours – 32.5 hours more than the mean time on spent trips for experienced 
-skippers with above-average general equipment (Table 4).
+<br><b>5.</b> The possibility of getting high catch value for experienced skippers was 52% - 71% and the possibility of getting high catch value for inexperienced skippers was 5% - 26% (Table 5) (Table 6).
+<br><b>6.</b> Boats that have adequate search equipment usually have average general equipment, whereas boats that have sophisticated search equipment have above average general equipment (Table 7).
